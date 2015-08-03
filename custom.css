@@ -1,0 +1,16 @@
+.tabs-dark {
+    background-color: #444444;
+    color: #fff;
+}
+
+.icons-bold:before {
+    font-weight: bold!important;
+}
+
+.color-green {
+    color: #32EF43!important;
+}
+
+.boldify {
+    font-weight: bold!important;
+}
